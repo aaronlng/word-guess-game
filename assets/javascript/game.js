@@ -227,3 +227,13 @@ var wordGuessGame = {
     }
 };
 
+// Initialize the game when the page loads.
+wordGuessGame.setupGame();
+
+// When a key is pressed..
+document.onkeyup = function (event) {
+    // Capture pressed key and make it lowercase.
+    wordGuessGame.letterGuessed = String.fromCharCode(event.which).toLowerCase();
+    // Pass the guessed letter into our updatePage function to run the game logic.
+    wordGuessGame.updatePage(wordGuessGame.letterGuessed);
+};
