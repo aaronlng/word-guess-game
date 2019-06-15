@@ -1,6 +1,6 @@
 # Pop Punk Word Guess Game
 
-Description goes here
+Test your knowledge of the early 2000's by guessing the top pop punk bands! As you guess the correct letters the band name becomes clearer. If you figure out the name, a top hit by that band is revealed. If you run out of guesses, you lose. 
 
 ![Demo of the game](/assets/images/demo.gif)
 
