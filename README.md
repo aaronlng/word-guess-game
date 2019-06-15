@@ -2,7 +2,7 @@
 
 Description goes here
 
-![Demo of the game]()
+![Demo of the game](/assets/images/demo.gif)
 
 ## Meta
 
