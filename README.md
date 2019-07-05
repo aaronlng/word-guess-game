@@ -4,11 +4,25 @@ Test your knowledge of the early 2000's by guessing the top pop punk bands! As y
 
 ![Demo of the game](/assets/images/demo.gif)
 
-## Meta
+## Languages/Technologies
 
-Aaron Long   
-  - Github: [aaronlng](https://github.com/aaronlng)
-  - Email: aaronlng05@gmail.com 
+- HTML
+
+- CSS
+
+- JavaScript
+
+## Play the game
+
+- [Pop Punk Word Guess Game](https://www.aaronlng.dev/word-guess-game/)
+
+## Author
+
+### Aaron Long
+
+- [GitHub Profile](https://github.com/aaronlng/)
+
+- [@aaronlng](https://twitter.com/aaronlng)
 
 ## Contributing
 
